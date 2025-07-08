@@ -1,5 +1,5 @@
 # TreasuresofDozza
-Group project for the UniBo Digital Heritage and multimedia 2024/25 course.
+Group project for the UniBo Digital Heritage and Multimedia 2024/25 course.
 
 Team ICOMs.
 Members:
